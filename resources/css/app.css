@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap');
+/* Other styles and links go here */
+
+body{
+    font-family: 'Noto Kufi Arabic', sans-serif !important;
+    color: #333 !important; 
+
+}
+
+/* Add these styles to your existing CSS or create a new CSS file */
+#sidebar {
+    background-color: #D2302C !important;
+}
+
+/* Add a hover effect for the sidebar links */
+#sidebar .nav-link:hover {
+    background-color: #F7F7F9 !important;
+}
+
+/* Add these styles to your existing CSS or create a new CSS file */
+.navbar-light {
+    background-color: #F7F7F9 !important;
+}
+/* Add these styles to your existing CSS or create a new CSS file */
+.container-fluid {
+    background-color: #F7F7F9 !important;
+}
